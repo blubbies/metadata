@@ -1,0 +1,27 @@
+{
+  "name": "Blubbies #8355",
+  "description": "Blubbies is a collection of 8888 unique, hand-crafted digital collectibles. Each Blubbie is a one-of-a-kind creation, generated from a combination of traits and attributes that make it truly special. Collect, trade, and showcase your Blubbies in the digital world!",
+  "image": "",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Blubbie Bedroom"
+    },
+    {
+      "trait_type": "skin",
+      "value": "Stone"
+    },
+    {
+      "trait_type": "face",
+      "value": "Blubbie"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Brown Cozy Cardigan"
+    },
+    {
+      "trait_type": "headgear",
+      "value": "Night Cap"
+    }
+  ]
+}
